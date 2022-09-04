@@ -233,6 +233,9 @@ terms above.
 md.bootstrappersiandatetimepicker
 MIT
 
+mds.persian.datetime
+MIT
+
 moment
 MIT
 Copyright (c) JS Foundation and other contributors
